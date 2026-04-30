@@ -1,11 +1,5 @@
 # Lab 3 — One-Way ANOVA Test (Sweden)
 
-## Student Name:
-Your Name
-
-## Course:
-Statistical Data Analytics
-
 ## Objective
 
 The objective of this project is to demonstrate the application of a One-Way Analysis of Variance (ANOVA) test using the World Energy dataset.
